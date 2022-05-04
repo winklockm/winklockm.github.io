@@ -1,14 +1,42 @@
 body {
-  background-color: #444444;
-  color: #dddddd;
+  background-color: white;
+  color: #93A8AC;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
 }
 
+img {
+  width: 60%;
+  border: 10px solid #E2B4BD;
+}
+
 .exp-header {
+  color: white;
   text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: #E2B4BD;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+header {
+  color: #9B6A6C;
+  text-align: center;
+}
+
+h2 {
+  color: #93A8AC;
+  font-size: 17px; 
+}
+
+h4, h5, h6 {
+  color: #424B54;
+  margin: 0;
+  padding-left: 25px;
+}
+
+h6 {
+  margin-bottom: 10px;
 }
